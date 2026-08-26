@@ -1,0 +1,8 @@
+*.pem
+.credkey
+credentials.enc
+piusb.bin
+config.txt
+menu
+splash
+*.o
