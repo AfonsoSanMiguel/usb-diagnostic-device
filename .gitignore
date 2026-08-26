@@ -6,3 +6,4 @@ config.txt
 menu
 splash
 *.o
+.*.kate-swp
